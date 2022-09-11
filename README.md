@@ -1,12 +1,10 @@
 # card-sorting 
-##-genetic-algorithms
+##genetic-algorithms
 the problem is : 
 	You have 10 cards numbered from 1 to 10
 	You have to divide them into two piles so that:
 	The sum of the first pile is as close as possible to 36.
 	And the product of all in the second pile is as close as possible to 360.
-My code : 
-
 ###Population size : 
 	6 
 ###Number of generation :
